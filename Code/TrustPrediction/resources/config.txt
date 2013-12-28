@@ -1,0 +1,6 @@
+file1=./resources/trusts.txt
+file2=./resources/ratings.txt
+method=structure+homophily
+homophily=cosine
+centrality=average
+combination=averaging
